@@ -13,8 +13,8 @@ footer{font-size: large;}
     align-self: center
 }
 
-dataDiv{
-    padding-left: 100px;
+.dataDiv{
+    padding-left: 80px;
 }
 
 .rangeDiv{
